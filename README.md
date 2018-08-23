@@ -12,8 +12,25 @@ Visual Studio 커뮤니티 OR CLION 설치하기
 
 
 * 프로그래밍 개론  
+##### PC 버전 카카오톡은 어떻게 만들어졌나?
+-Windows 프로그램으로 Client + UI구현
+-Socket Programing
 
 * Windows Programing 기초 (for UI, Event)  
+C#
 
 * C++ 문법  
+
+https://www.acmicpc.net/problem/2438  
+
+https://www.acmicpc.net/problem/2439  
+
+https://www.acmicpc.net/problem/2440  
+
+https://www.acmicpc.net/problem/2441  
+
+https://www.acmicpc.net/step/5  2문제  
+
+https://www.acmicpc.net/step/6  2문제  
+
 
