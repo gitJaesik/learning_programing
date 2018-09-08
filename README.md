@@ -45,4 +45,21 @@ https://www.acmicpc.net/step/6  2문제
  운영체제에 대해서 이해하자   
  https://ko.wikipedia.org/wiki/%EC%9A%B4%EC%98%81_%EC%B2%B4%EC%A0%9C  
  
+ https://learngitbranching.js.org/
  
+ # #Day3
+ 
+## class 개념  
+- oop의 특징과 원칙 이해하기 [참고위키](https://en.wikipedia.org/wiki/Object-oriented_programming)
+- 쉽게는 클래스는 하나의 기능이 많은 변수라고 생각하면 된다.
+
+## Linux 설치하기
+- 윈도우에 리눅스 설치해오기
+
+## git comit하기
+- 숙제 소스 add, 소스1 add
+- git init
+- git add filename
+- git commit -m "commit log"
+
+
