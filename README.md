@@ -63,3 +63,18 @@ https://www.acmicpc.net/step/6  2문제
 - git commit -m "commit log"
 
 
+# #Day 4
+
+## console 회원가입 만들기
+- User class로 콘솔 회원가입 만들기
+
+## g++ compile
+- g++ 파일명
+=> a.out과 같은 파일이 생김
+- g++ 파일명1 -o 파일명2
+=> "파일명2"의 이름으로 실행파일이 생김
+
+## stl string
+- 문자열
+- char[128] str;와 비슷
+- ex) string s; cin >> s; "hello world"; s = "hello world"
