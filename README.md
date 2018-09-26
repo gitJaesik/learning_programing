@@ -78,3 +78,40 @@ https://www.acmicpc.net/step/6  2문제
 - 문자열
 - char[128] str;와 비슷
 - ex) string s; cin >> s; "hello world"; s = "hello world"
+
+# #Day 5
+
+## 다형성 코딩
+### 스타크래프트 개발을 한다고 하자.
+### 아래의 클래스를 만드세요.
+- scv
+- 마린
+- 파이어벳
+- 메딕
+
+------------------
+
+## To learn more
+
+### basic
+- oop // language
+- algorithm - acmipcp
+
+### server
+- socket programming
+- web server
+
+### client
+- aos ios
+
+### master class
+- machine learning
+- natural language
+
+
+
+
+
+
+
+
