@@ -109,7 +109,19 @@ https://www.acmicpc.net/step/6  2문제
 - natural language
 
 
+# #Day 6
 
+https://www.acmicpc.net/problem/10845  
+
+Tetris source code driving
+
+
+# #Day 7
+
+vim  
+visual assist  
+console api 사용  
+prime (소수구하기) 문제 풀이  
 
 
 
