@@ -123,7 +123,13 @@ visual assist
 console api 사용  
 prime (소수구하기) 문제 풀이  
 
+# #Day 8
+Code explanation order =>  
+Abstract  
+Data Structure  
+Logic  
 
+Get prime problem is solved well  
 
 
 
